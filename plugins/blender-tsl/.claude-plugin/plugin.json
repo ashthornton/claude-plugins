@@ -1,0 +1,13 @@
+{
+  "name": "blender-tsl",
+  "displayName": "three.js TSL Material Export",
+  "version": "0.1.0",
+  "description": "Bring Blender materials into three.js projects as TSL node materials, using the three.js TSL Material Export Blender add-on",
+  "author": {
+    "name": "Ash Thornton",
+    "url": "https://tools.ashthornton.dev/blender-to-tsl/"
+  },
+  "homepage": "https://tools.ashthornton.dev/blender-to-tsl/",
+  "license": "MIT-0",
+  "keywords": ["blender", "three.js", "tsl", "webgpu", "materials"]
+}

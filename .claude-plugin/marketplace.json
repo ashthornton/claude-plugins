@@ -1,0 +1,15 @@
+{
+  "name": "ashthornton-tools",
+  "description": "Claude Code plugins for Ash Thornton's Blender add-ons",
+  "owner": {
+    "name": "Ash Thornton",
+    "url": "https://tools.ashthornton.dev/"
+  },
+  "plugins": [
+    {
+      "name": "blender-tsl",
+      "source": "./plugins/blender-tsl",
+      "description": "Bring Blender materials into three.js projects as TSL node materials, using the three.js TSL Material Export Blender add-on"
+    }
+  ]
+}
